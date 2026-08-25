@@ -1,0 +1,1 @@
+merge means combining the changes of two branches into one while rebase means if you want to bring new changes from one branch to another then you can use rebase. basically it keeps the commit history clean as compared to merge but not recommended for public repositories.
